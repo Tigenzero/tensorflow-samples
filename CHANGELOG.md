@@ -4,7 +4,7 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [0.04]()
+## [0.04](https://github.com/Tigenzero/tensorflow-samples/commit/6a0fb3159527e0dc757e50cbb9e64424c633604c)
 ### Added
 ##### Added Fashion_mnist folder
 ### Added
