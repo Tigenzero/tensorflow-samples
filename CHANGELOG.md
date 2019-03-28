@@ -4,9 +4,17 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [0.03]()
+## [0.04]()
 ### Added
-##### Added keras folder
+##### Added Fashion_mnist folder
+### Added
+- Added fashion_mnist project work.
+### Changed
+- Updated PyYaml to 5.1
+
+## [0.03](https://github.com/Tigenzero/tensorflow-samples/commit/2b5f219ae0d9acf9ef689e7f64481e3631f50165)
+### Added
+##### Added keras_samples folder
 - Added simple_blobs.py
 - Added deep_circles_sq.py
 - Added deep_circles_api.py
